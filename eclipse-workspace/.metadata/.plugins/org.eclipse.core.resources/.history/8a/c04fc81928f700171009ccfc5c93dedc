@@ -1,0 +1,14 @@
+
+public class Daatyp {
+public static void main(String[] args) {
+byte a=120	;
+System.out.println("a="+a);
+short b=32767;
+System.out.println(b);
+System.out.println(a+b);
+int i= 236478609;
+System.out.println("i="+i);
+long l= 1237893500;
+System.out.println("l="+l);
+}
+}

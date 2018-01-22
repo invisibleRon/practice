@@ -1,0 +1,14 @@
+
+public class inbox {
+	public void div() {
+		System.out.println("This is div funn");
+	}
+public static void main(String[] args) {
+	A a=new A();
+	a.add();	
+	inbox b=new inbox();
+	b.div();
+	
+			
+}
+}

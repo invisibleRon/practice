@@ -1,0 +1,12 @@
+package com.shak.methods;
+
+public class Testpractice {
+
+public static void main(String[] args) {
+	Practice room1=new Practice();
+	room1.length= 15;
+	room1.width =5; 
+	room1.calculateArea();
+}	
+	
+}

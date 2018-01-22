@@ -1,0 +1,12 @@
+
+public class B extends A {
+	public void div() {
+		System.out.println("This is B class add funn");
+	}
+	
+public static void main(String[] args) {
+	B b=new B();
+	b.div();
+	b.add();
+  }
+}

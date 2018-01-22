@@ -1,0 +1,12 @@
+package com.tajasho.outlook.sentmail;
+import com.tajashop.outlook.login.A;
+import com.tajashop.outlook.login.B;
+public class C {
+public static void main(String[] args) {
+	A a =new A();
+	a.add();
+	B b =new B();
+	b.div();
+	
+}
+}

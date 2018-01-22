@@ -1,0 +1,6 @@
+
+public class Aj {
+public void add() {
+	System.out.println("This is add funn");
+}
+}

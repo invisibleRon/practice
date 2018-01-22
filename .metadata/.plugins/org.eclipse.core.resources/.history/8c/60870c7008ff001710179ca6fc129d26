@@ -1,0 +1,11 @@
+package com.shak.a.methods;
+
+public class Employee {
+	double salary;
+	double bonus;
+	public void calculateSalary() {
+		double totalPay = salary + bonus;
+		System.out.println(totalPay);
+	}
+
+}

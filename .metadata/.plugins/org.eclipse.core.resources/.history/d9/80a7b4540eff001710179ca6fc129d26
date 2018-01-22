@@ -1,0 +1,10 @@
+package com.shak.s.polymorphism;
+
+public class Testprctice {
+	public static void main(String[] args) {
+		Practice a =new Practice();
+		a.calculateArea();;
+		
+	}
+
+}

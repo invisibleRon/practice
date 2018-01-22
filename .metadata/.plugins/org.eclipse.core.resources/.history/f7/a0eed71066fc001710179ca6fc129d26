@@ -1,0 +1,20 @@
+package com.shakil.seleniumtraining.variables;
+
+public class Variabledemo {
+	
+	int b =300;
+	
+public void add() {
+	int a =100;
+			System.out.println(a);
+}
+public void div() {
+	//System.out.println(a);
+
+}
+public static void main(String[] args) {
+	Variabledemo variableDemoObj=new Variabledemo()
+			System.out.println(variableDemoObj.b);
+	
+}
+}

@@ -1,0 +1,13 @@
+
+public class inbox {
+	public void inbox_TC() {
+		System.out.println("This is to test inbox funn");
+		
+}
+	public static void main(String[] args) {
+		 login login=new login();
+		login.dologin_TC();
+
+		
+	}
+}

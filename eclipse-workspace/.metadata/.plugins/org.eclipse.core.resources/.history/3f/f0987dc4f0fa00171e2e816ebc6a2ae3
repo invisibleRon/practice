@@ -1,0 +1,8 @@
+
+public class A {
+public void add() {
+System.out.println("This is add funn");
+
+}
+
+}

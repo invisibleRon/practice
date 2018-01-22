@@ -1,0 +1,16 @@
+package com.tajashop.conditionalstatements;
+
+public class Elsedemo {
+ public static void main(String[] args) {
+	String expectedResult ="Shak";
+	String actualResult ="Shak";
+	if (expectedResult == actualResult) {
+		System.out.println("Tes case pass");
+		
+	}else {
+		System.out.println("Test case is fail");
+	}
+	
+	
+}
+}

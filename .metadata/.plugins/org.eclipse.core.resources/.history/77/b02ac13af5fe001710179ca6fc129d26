@@ -1,0 +1,10 @@
+package com.shak.methods;
+
+public class Practice {
+int length;
+int width;
+public double calculateArea() {
+	int totalArea = width*length;
+	//System.out.println(totalArea);
+}
+}

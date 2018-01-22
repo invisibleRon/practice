@@ -1,0 +1,20 @@
+package com.shak.a.methods;
+
+public class Testemployee {
+
+	public static void main(String[] args) {
+		Employee John = new Employee();
+		John.salary = 500;
+		John.bonus = 200;
+		double tax = 50;
+		double overtime = 30;
+		double SSB = 25;
+		double Medicare = 90;
+		John.calculateSalary(Medicare, Medicare, Medicare, Medicare, Medicare, Medicare); /*methods with passing 
+		parameters
+		benefits : shows all the required parameter to achieve
+		actual result*/
+		
+
+	}
+}

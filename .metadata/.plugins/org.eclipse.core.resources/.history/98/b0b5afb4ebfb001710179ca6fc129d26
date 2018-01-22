@@ -1,0 +1,14 @@
+package com.tajashop.conditionalstatements;
+
+public class Ifdemo {
+public static void main(String[] args) {
+	//compare two numbers 
+	int x = 20;
+	int y = 20;
+	
+	if(x != y) {
+		System.out.println("x is equals to y");
+		
+	}
+}
+}

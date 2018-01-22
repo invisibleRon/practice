@@ -1,0 +1,12 @@
+package com.tajashop.outlook.login;
+
+public class A {
+public void add() {
+System.out.println("This os add funn");
+}
+public static void main(String[] args) {
+	A a = new A();
+	a.add();
+	
+}
+}

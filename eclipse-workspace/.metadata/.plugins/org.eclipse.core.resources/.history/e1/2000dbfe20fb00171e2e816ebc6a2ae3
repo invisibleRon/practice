@@ -1,0 +1,10 @@
+
+public class C {
+public void add()
+{System.out.println("This is C class add function");
+	}
+public static void main(String[] args) {
+C c=new C();
+c.add();
+}
+}

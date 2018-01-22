@@ -1,0 +1,7 @@
+package com.shakil.seleniumtraining.variables;
+
+public class variabletest {
+
+	static int a = 100;
+	
+}

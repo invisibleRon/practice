@@ -1,0 +1,5 @@
+package shak.selenium;
+
+public interface system {
+
+}

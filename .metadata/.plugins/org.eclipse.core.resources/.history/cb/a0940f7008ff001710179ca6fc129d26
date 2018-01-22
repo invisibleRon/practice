@@ -1,0 +1,12 @@
+package com.shak.a.methods;
+
+public class Testemployee {
+
+	public static void main(String[] args) {
+		Employee John = new Employee();
+		John.salary = 500;
+		John.bonus = 200;
+		John.calculateSalary();
+
+	}
+}

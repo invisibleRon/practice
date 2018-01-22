@@ -1,0 +1,19 @@
+package com.shakil.seleniumtraining.variables;
+
+public class Variabledemo {
+	static int c = 200;
+	int b =300; //instant variable 
+	
+public void add() {
+	int a =100; //local variable inside the method
+			System.out.println(a);
+}
+public void div() {
+	//System.out.println(a);
+	
+		
+}
+
+	        
+
+}

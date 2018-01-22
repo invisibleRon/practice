@@ -1,0 +1,20 @@
+
+public class Daatyp {
+public static void main(String[] args) {
+byte a=120	;
+System.out.println("a="+a);
+short b=32767;
+System.out.println(b);
+System.out.println(a+b);
+int i= 236478609;
+System.out.println("i="+i);
+long l= 1237893500;
+System.out.println("l="+l);
+float f = 10999994477777.6577778887F;
+System.out.println(f);
+double d = 10000099990.65888888888888888d;
+System.out.println(d);
+
+
+}
+}
